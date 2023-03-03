@@ -1,0 +1,86 @@
+body {
+    font-family: "TT Hoves";
+    margin: 0;
+    color: #222;
+}
+
+
+.contentBlock {
+    margin: 37px 121px 0;
+    
+
+}
+
+.contentBlock.hello {
+    background-image: url(./img/html_css_js\ 1.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.courseInfo {
+    margin-top: 85px;
+    display: flex;
+    gap: 161px;
+    font-size: 21px;
+    /* font-family: TT Hoves; */
+    line-height: 29.4px;
+    margin-bottom: 76px;
+}
+
+.title {
+
+}
+
+.value {
+    font-weight: bold;
+}
+
+h1 {
+    font-family: Chava;
+    font-size: 80px;
+
+}
+
+p {
+    margin-right: 108px;
+}
+
+.text {
+    font-size: 27px;
+    /* font-family: TT Hoves; */
+}
+
+.cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px 30px;
+}
+
+.primary {
+    display: block;
+    background-color: #6E3ABA;
+    border-radius: 12px;
+
+    width: 328px;
+    padding: 20px 0;
+
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.secondary {
+    display: block;
+    background-color: #ffffff;
+    border: 1px solid #6E3ABA;
+    border-radius: 12px;
+
+    width: 328px;
+    padding: 20px 0;
+
+
+    color: #6e3aba;
+    text-align: center;
+    text-decoration: none;
+}
